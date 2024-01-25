@@ -16,24 +16,30 @@ python app.py
 4.  Select an image and click on the `Predict Image` button
 
 > **NOTE: You can use virtual environment to do this using-
-```cd path\to\your\project
+```
+cd path\to\your\project
 ```
 
-```python -m venv venv
+```
+python -m venv venv
 ```
 
-```venv\Scripts\activate
+```
+venv\Scripts\activate
 ```
 
 OR
 
-```cd path/to/your/project
+```
+cd path/to/your/project
 ```
 
-```python3 -m venv venv
+```
+python3 -m venv venv
 ```
 
-```source venv/bin/activate
+```
+source venv/bin/activate
 ```
 **
 
